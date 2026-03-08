@@ -1,4 +1,4 @@
-# Hi there! I'm Jakshigan 
+# Hi there! I'm Jakshigan
 
 I am a **Full-Stack Software Engineer** and Computer Science student with a passion for building intelligent, scalable systems. Currently, I'm focusing on **AI Multi-Agent Systems**, **DevOps**, and **Cloud Architecture**.
 
