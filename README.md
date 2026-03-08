@@ -22,7 +22,7 @@ I am a **Full-Stack Software Engineer** and Computer Science student with a pass
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakshiganj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jak's GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=jakshiganj&show_icons=true&theme=radical&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=jakshiganj&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400)" alt="Jak's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakshiganj&layout=compact&theme=radical&hide_border=true" alt="Jak's Top Languages" />
 </p>
